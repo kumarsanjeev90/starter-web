@@ -15,4 +15,8 @@
     jQuery, Modernizr
 #this is for training purpose
 #added one more line
+<<<<<<< HEAD
 #this is the best html  course
+=======
+#this is the best  course
+>>>>>>> develop
