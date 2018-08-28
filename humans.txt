@@ -15,4 +15,4 @@
     jQuery, Modernizr
 #this is for training purpose
 #added one more line
-#this is the best devops course
+#this is the best java course
