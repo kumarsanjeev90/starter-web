@@ -26,3 +26,11 @@ This line is added by master branch
 #this is the best java course
 This line is added by the branch
 >>>>>>> develop
+
+
+
+
+
+
+
+I have added content in line 36 under master branch
