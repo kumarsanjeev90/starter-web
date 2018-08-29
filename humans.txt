@@ -16,8 +16,13 @@
 #this is for training purpose
 #added one more line
 <<<<<<< HEAD
+<<<<<<< HEAD
 #this is the best html  course
 =======
 #this is the best  course
 >>>>>>> develop
 This line is added by master branch
+=======
+#this is the best java course
+This line is added by the branch
+>>>>>>> develop
